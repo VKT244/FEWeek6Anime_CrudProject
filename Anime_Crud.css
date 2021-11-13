@@ -1,0 +1,37 @@
+/* forum header with styling */
+.header {
+    padding: 40px; 
+    text-align: center;
+    position:top;
+    background-color: lightskyblue;
+}
+
+.container {
+background-color: rgb(99, 155, 212);
+}
+
+table {
+    width: 100%;
+}
+
+/* table header width styling */
+
+#index-col {
+    width: 10%;
+}
+
+#topic-col {
+    width: 65%;
+}
+
+#replies-col {
+    width: 5%;
+}
+
+#lastpost-col {
+    width: 20%;
+}
+
+#edit-col {
+    width: 10%;
+}
